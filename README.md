@@ -14,6 +14,11 @@
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" width="40" height="40"/>
   </a>
 </p>
+<p align="left">
+  <a href="tel:+919096812382" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/724/724664.png" alt="Phone" width="40" height="40"/>
+  </a>
+</p>
 
 <p align="left">
 </p>
