@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Priya</h1>
 <h3 align="center">A Passionate Full Stack Developer From India</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priya9096" alt="priya9096" /></a> </p>
 - 🌱 I’m currently learning **Spring**
 - 💬 Ask me about **Reactjs, Django**
 - 📫 How to reach me **priyakhairate0000@gmail.com**
