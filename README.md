@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Priya</h1>
 <h3 align="center">A Passionate Full Stack Developer From India</h3>
-<p align="center">🚀 Subscribe to my YouTube channel <a href="https://youtube.com/@jobreadycoderz?si=iG0wnNNQsqKCsmQa" target="_blank">@jobreadycoderz</a> to get access to all my projects and tutorials!</p>
 <p align="center">
   <a href="https://youtube.com/@jobreadycoderz?si=iG0wnNNQsqKCsmQa" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" alt="YouTube" width="80"/>
